@@ -1,8 +1,4 @@
-const stringLength = require('./tasks')
-
-// const str0 = stringLength('');
-// const str3 = stringLength('abc');
-// const str11 = stringLength('abcdeabcdea');
+const stringLength = require('./stringLength')
 
 test('String length: Happy trail', () => {
   expect(stringLength('abc')).toBe(3);
