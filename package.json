@@ -1,0 +1,24 @@
+{
+  "name": "testing-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwibbler/testing-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwibbler/testing-tests/issues"
+  },
+  "homepage": "https://github.com/qwibbler/testing-tests#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
